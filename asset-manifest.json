@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Smart-House/static/css/main.5aec3321.css",
-    "main.js": "/Smart-House/static/js/main.4ce5ed0b.js",
-    "static/js/787.af765c4b.chunk.js": "/Smart-House/static/js/787.af765c4b.chunk.js",
-    "static/media/backgroung.jpg": "/Smart-House/static/media/backgroung.c8fde7a469d9783c2a67.jpg",
-    "index.html": "/Smart-House/index.html",
-    "main.5aec3321.css.map": "/Smart-House/static/css/main.5aec3321.css.map",
-    "main.4ce5ed0b.js.map": "/Smart-House/static/js/main.4ce5ed0b.js.map",
-    "787.af765c4b.chunk.js.map": "/Smart-House/static/js/787.af765c4b.chunk.js.map"
+    "main.css": "/dolevNagar/Smart-House.git/static/css/main.97f94878.css",
+    "main.js": "/dolevNagar/Smart-House.git/static/js/main.498ff09f.js",
+    "static/js/787.af765c4b.chunk.js": "/dolevNagar/Smart-House.git/static/js/787.af765c4b.chunk.js",
+    "static/media/backgroung.jpg": "/dolevNagar/Smart-House.git/static/media/backgroung.c8fde7a469d9783c2a67.jpg",
+    "index.html": "/dolevNagar/Smart-House.git/index.html",
+    "main.97f94878.css.map": "/dolevNagar/Smart-House.git/static/css/main.97f94878.css.map",
+    "main.498ff09f.js.map": "/dolevNagar/Smart-House.git/static/js/main.498ff09f.js.map",
+    "787.af765c4b.chunk.js.map": "/dolevNagar/Smart-House.git/static/js/787.af765c4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aec3321.css",
-    "static/js/main.4ce5ed0b.js"
+    "static/css/main.97f94878.css",
+    "static/js/main.498ff09f.js"
   ]
 }
